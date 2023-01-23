@@ -1,1 +1,2 @@
-0x05-python-exceptions
+# Python Exceptions
+This directory contains tasks on handling python exceptions
